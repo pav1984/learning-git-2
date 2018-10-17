@@ -1,4 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Chakra+Petch');
 body {
     font-family: 'Chakra Petch', sans-serif;
+    text-align: center;
+    margin: 25px auto;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 500;
 }
